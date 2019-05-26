@@ -28,6 +28,10 @@ See the end of this file for further copyright and license information.
 
 .. contents::
 
+THIS REPO IS ONLY FOR PERSONAL USE
+THE GOAL IS TO IMPROVE SOME STUFF THAT I
+PERSONALLY FIND HARD AND 
+ANNOYING ABOUT THE  IDLE.
 General Information
 -------------------
 

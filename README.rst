@@ -1,3 +1,9 @@
+
+THIS REPO IS ONLY FOR PERSONAL USE
+THE GOAL IS TO IMPROVE SOME STUFF THAT I
+PERSONALLY FIND HARD AND 
+ANNOYING ABOUT THE  IDLE.
+
 This is Python version 3.8.0 alpha 4
 ====================================
 
@@ -27,11 +33,6 @@ Copyright (c) 2001-2019 Python Software Foundation.  All rights reserved.
 See the end of this file for further copyright and license information.
 
 .. contents::
-
-THIS REPO IS ONLY FOR PERSONAL USE
-THE GOAL IS TO IMPROVE SOME STUFF THAT I
-PERSONALLY FIND HARD AND 
-ANNOYING ABOUT THE  IDLE.
 General Information
 -------------------
 
